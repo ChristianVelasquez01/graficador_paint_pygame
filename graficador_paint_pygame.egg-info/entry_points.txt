@@ -1,0 +1,3 @@
+[console_scripts]
+graficador_paint_pygame = main.__main__:main
+
